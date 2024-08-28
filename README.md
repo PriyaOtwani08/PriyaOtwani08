@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priya otwani</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.IBoPzgI7K2WQprGKT91PFgHaEq?rs=1&pid=ImgDetMain">
-- 💬 Ask me about **C++,HTML,CSS**
+- 💬 Ask me about C++,HTML,CSS
 
-- 📫 How to reach me **priyaotwani72@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Dell/Downloads/Priya_Otwani_Resume.pdf](file:///C:/Users/Dell/Downloads/Priya_Otwani_Resume.pdf)
+- 📫 How to reach me priyaotwani72@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
